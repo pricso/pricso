@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Wolrld! 👋 I'm Priscila  :relaxed:</h1>
+<h1 align="center">Hello, World! 👋 I'm Priscila  :relaxed:</h1>
 <h3 align="center">A passionate data analyst from Brazil, based in Ireland</h3>
 
 :woman_student: I'm pursuing my Master's Degree in Data Analytics at the [National College of Ireland](https://www.ncirl.ie/).
