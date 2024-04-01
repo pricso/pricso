@@ -5,7 +5,7 @@
 
 :nerd_face: I’m currently learning Python, R and SQL.
 
-<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/)</h3>
+<h3 align="left">Connect with me: </h3> [LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/)
 <p align="left">
 </p>
 
