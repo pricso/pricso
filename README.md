@@ -11,11 +11,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-- 📫 How to reach me:
+<h3 align="left">📫 How to reach me: </h3>
 - pcso1991@gmail.com | 
 <!--
 **pricso/pricso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
