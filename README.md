@@ -9,10 +9,7 @@
 <p align="left"> 
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/)
-
-<h3 align="left">📫 How to reach me: </h3>
-- pcso1991@gmail.com | 
+[LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/) | pcso1991@gmail.com
 <!--
 **pricso/pricso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
