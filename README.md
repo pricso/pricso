@@ -1,11 +1,11 @@
-<h1 align="center">Hello, Wolrld! 👋 I'm Priscila</h1>
+<h1 align="center">Hello, Wolrld! 👋 I'm Priscila  :relaxed:</h1>
 <h3 align="center">A passionate data analyst from Brazil, based in Ireland</h3>
 
 :woman_student: I'm pursuing my Master's Degree in Data Analytics at the [National College of Ireland](https://www.ncirl.ie/).
 
 :nerd_face: I’m currently learning Python, R and SQL.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/)</h3>
 <p align="left">
 </p>
 
@@ -14,7 +14,7 @@
 
 
 - 📫 How to reach me:
-- pcso1991@gmail.com | [LinkedIn](https://www.linkedin.com/in/priscilaoliveira1991/)
+- pcso1991@gmail.com | 
 <!--
 **pricso/pricso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
