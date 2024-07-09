@@ -7,7 +7,7 @@
 
 ✨ Three facts about me:
 - I love dogs, books, learning new languages, pistachio ice cream and watermelon juice 🍉
-- I always try to see the bright side of everything (but sometimes I fail) 🌷
+- I always try to see the bright side of everything 🌷
 - Give me some time to think about this one.
 
 
