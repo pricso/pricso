@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World 👋 I'm Priscila 😊 </h1>
 
 ## About me
-🎓 I'm currently pursuing a Master's degree in Data Analytics at the [National College of Ireland](https://www.ncirl.ie/).
+🎓 I have a Master's degree in Data Analytics from the [National College of Ireland](https://www.ncirl.ie/).
 
 🔍 I am a very curious person, passionate about data and on my path to becoming a Data Analyst.
 
